@@ -1,0 +1,284 @@
+/*---
+| COLOR SCHEME
+---*/
+a {
+  color: #f1c40f;
+}
+a:hover,
+a:focus {
+  color: #c29d0b;
+}
+.list-border li {
+  border-left: 5px solid #f1c40f;
+}
+.list-chevron li:before {
+  color: #f1c40f;
+}
+.table-hover tbody tr:hover > th,
+.table-hover tbody tr:hover > td {
+  background-color: #f1c40f;
+}
+.price-list li.important {
+  color: #f1c40f;
+}
+.flash {
+  background-color: #f1c40f;
+}
+.btn-primary {
+  background-color: #f1c40f;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #dab10d;
+}
+.box.border-top {
+  border-top: 5px solid #f1c40f;
+}
+.box.border-right {
+  border-right: 5px solid #f1c40f;
+}
+.box.border-bottom {
+  border-bottom: 5px solid #f1c40f;
+}
+.box.border-left {
+  border-left: 5px solid #f1c40f;
+}
+.panel.border-top {
+  border-top: 5px solid #f1c40f;
+}
+.panel.border-right {
+  border-right: 5px solid #f1c40f;
+}
+.panel.border-bottom {
+  border-bottom: 5px solid #f1c40f;
+}
+.panel.border-left {
+  border-left: 5px solid #f1c40f;
+}
+.panel-navigation a:hover {
+  background-color: #f1c40f;
+  border-color: #f1c40f;
+}
+.panel-navigation a:hover .toggle {
+  color: #f1c40f;
+}
+.header .top a:hover {
+  color: #f1c40f;
+}
+.search #autocomplete-results ul {
+  border-left: 5px solid #f1c40f;
+}
+.search #autocomplete-results ul li.active a {
+  background-color: #f1c40f;
+}
+.mini-cart a > span {
+  background-color: #f1c40f;
+}
+.main-menu > li:hover > a,
+.main-menu > li > a:hover {
+  color: #f1c40f;
+}
+.main-menu ul {
+  border-top: 5px solid #f1c40f;
+}
+.main-menu ul a:hover {
+  background-color: #f1c40f;
+}
+.breadcrumb a:hover,
+.breadcrumb a:focus {
+  color: #f1c40f;
+}
+.tweet_list .tweet a:hover {
+  color: #f1c40f;
+}
+.footer .links a:hover,
+.footer .links a:focus {
+  color: #f1c40f;
+}
+.footer .twitter .tweet_list li .text .tweet_time a:hover,
+.footer .twitter .tweet_list li .text .tweet_time a:focus {
+  color: #f1c40f;
+}
+.category .sidebar .children .title a:hover {
+  color: #f1c40f;
+}
+.category .sidebar .category-list a:hover,
+.category .sidebar .category-list a:focus {
+  background-color: #f1c40f;
+}
+.category .sidebar .category-list a:hover .count,
+.category .sidebar .category-list a:focus .count {
+  color: #f1c40f;
+}
+.category .sidebar .price-filter .ui-slider .ui-slider-range {
+  background-color: #f1c40f;
+  border-top: 1px solid #c29d0b;
+  border-bottom: 1px solid #c29d0b;
+}
+.category .sidebar .price-filter #slider-label strong {
+  color: #f1c40f;
+}
+.product-list a:hover .title .rating {
+  color: #f1c40f;
+}
+.product-list a .image .badge-sale {
+  background-color: #f1c40f;
+}
+.product-list a .image .badge-sale:after {
+  border-color: #927608 transparent transparent transparent;
+}
+.product-list a .title .prices .price {
+  color: #f1c40f;
+}
+.product-list-small .image a:hover {
+  border-color: #f1c40f;
+}
+.product-list-small .desc h6 a:hover {
+  color: #f1c40f;
+}
+.product-list-small .desc .rating a:hover {
+  color: #f1c40f;
+}
+.product-list-small li:hover .desc .rating {
+  color: #f1c40f;
+}
+.ratings-small li:hover .desc .rating {
+  color: #f1c40f;
+}
+.flexslider .flex-progress span {
+  background-color: #f1c40f;
+}
+.caption h3 {
+  background-color: #f1c40f;
+}
+.jcarousel-controls .carousel-control-prev:hover,
+.jcarousel-controls .carousel-control-next:hover,
+.jcarousel-controls .carousel-control-prev:focus,
+.jcarousel-controls .carousel-control-next:focus {
+  background-color: #f1c40f;
+}
+.product-info .product-content #product .details .prices .price {
+  color: #f1c40f;
+}
+.product-info .product-content #product .details .meta .categories a:hover {
+  color: #f1c40f;
+}
+.product-info .product-images .thumbs .thumbs-list li a:hover {
+  border-color: #f1c40f;
+}
+.product-info .product-images .thumbs .thumbs-list li a.active {
+  border-color: #f1c40f;
+}
+.product-reviews h5 .script {
+  color: #f1c40f;
+}
+.nav-tabs {
+  border-bottom: 5px solid #f1c40f;
+}
+.nav-tabs li a:hover {
+  color: #f1c40f;
+}
+.nav-tabs li.active > div,
+.nav-tabs li.active a,
+.nav-tabs li.active a:hover,
+.nav-tabs li.active a:active,
+.nav-tabs li.active a:focus {
+  background-color: #f1c40f;
+}
+.nav-tabs.nav-stacked > li > a:hover,
+.nav-tabs.nav-stacked > li > a:active,
+.nav-tabs.nav-stacked > li > a:focus {
+  border-bottom: 1px solid #f1c40f;
+  background-color: #f1c40f;
+}
+.nav-tabs.nav-stacked li.active a {
+  color: #f1c40f;
+}
+.cart-items .col_product .image a:hover,
+.cart-items .col_product .image a:focus {
+  border-color: #f1c40f;
+}
+.cart-items .col_product h5 a:hover,
+.cart-items .col_product h5 a:focus {
+  color: #f1c40f;
+}
+.cart-items .col_product .options li:before,
+.cart-items .col_product .extras li:before {
+  color: #f1c40f;
+}
+.options-panel .options-panel-toggle a {
+  background-color: #f1c40f;
+}
+.label-sale {
+  background-color: #f1c40f;
+}
+.widget {
+  border-top: 5px solid #f1c40f;
+}
+.widget.Categories a:hover,
+.widget.Menu a:hover,
+.widget.Categories a:focus,
+.widget.Menu a:focus {
+  background-color: #f1c40f;
+}
+.widget.Categories a:hover .count,
+.widget.Menu a:hover .count,
+.widget.Categories a:focus .count,
+.widget.Menu a:focus .count {
+  color: #f1c40f;
+}
+.adverts a:hover {
+  border-color: #f1c40f;
+}
+.megamenu_container .megamenu > li > a:hover {
+  color: #f1c40f;
+}
+.megamenu_container .megamenu > li.megamenu_button a {
+  background-color: #f1c40f;
+}
+.megamenu_container .megamenu .contact_form .required {
+  color: #f1c40f;
+}
+.megamenu_container .megamenu .contact_form .button:first-child {
+  background-color: #f1c40f;
+}
+.megamenu_container .megamenu .contact_form .button.btn-primary {
+  background-color: #f1c40f;
+}
+.megamenu_container .megamenu .contact_form .button.btn-primary:hover,
+.megamenu_container .megamenu .contact_form .button.btn-primary:focus,
+.megamenu_container .megamenu .contact_form .button.btn-primary:active {
+  background-color: #dab10d;
+}
+.megamenu_container.megamenu_light .megamenu li .dropdown_container,
+.megamenu_container.megamenu_light .megamenu li .dropdown_fullwidth,
+.megamenu_container.megamenu_light .megamenu li .dropdown_flyout li ul {
+  border-top: 5px solid #f1c40f;
+}
+.megamenu_container.megamenu_light .megamenu > li > div a,
+.megamenu_container.megamenu_light .megamenu li ul li,
+.megamenu_container.megamenu_light .megamenu li ol li {
+  color: #333;
+}
+.megamenu_container.megamenu_light .megamenu > li > div a:hover,
+.megamenu_container.megamenu_light .megamenu li ul li:hover,
+.megamenu_container.megamenu_light .megamenu li ol li:hover {
+  color: #f1c40f;
+}
+.megamenu_container.megamenu_light .megamenu > li > div a.btn,
+.megamenu_container.megamenu_light .megamenu li ul li.btn,
+.megamenu_container.megamenu_light .megamenu li ol li.btn {
+  color: #ffffff !important;
+}
+.megamenu_container.megamenu_light .megamenu > li > div a.btn:hover,
+.megamenu_container.megamenu_light .megamenu li ul li.btn:hover,
+.megamenu_container.megamenu_light .megamenu li ol li.btn:hover {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .megamenu_container .megamenu > li > a:hover {
+    color: #ffffff;
+    background-color: #f1c40f;
+  }
+}
