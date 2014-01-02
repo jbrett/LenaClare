@@ -4,9 +4,9 @@
 
 # What is the case-sensitive name of the git-hub project?
 # This will be used when setting up folders on the target system.
-set :application, "Jean-and-James"
+set :application, "LenaClare"
 #if !defined? :application
-#    set :application, "Jean-and-James"
+#    set :application, "LenaClare"
 #end
         
         
@@ -15,7 +15,7 @@ set :application, "Jean-and-James"
 ###################################################################
         
 # Where is the local repository?
-set :repository, "git@github.com:jbrett/Jean-and-James.git"
+set :repository, "git@github.com:jbrett/LenaClare.git"
 #if !defined? :repository
 #    set :repository, "git@github.com:jbrett/#{application}.git"
 #end
